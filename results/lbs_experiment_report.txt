@@ -1,0 +1,12 @@
+=========================================
+      SMPL Linear Blend Skinning Report  
+=========================================
+- Total Vertices : 6890
+- Total Faces    : 13776
+- Total Joints   : 24
+- Target Joint ID: 18
+-----------------------------------------
+[Accuracy Verification]
+Mean Abs Error (Manual vs Official) : 0.0000000000
+Max Abs Error  (Manual vs Official) : 0.0000000000
+=========================================
